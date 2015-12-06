@@ -1,7 +1,7 @@
 name: SNØLYKKAN
 favicon: null
-layout_spectrum: 0.2333494732156396
-typography_spectrum: 0.9768428853712976
+layout_spectrum: 1
+typography_spectrum: 0.48614
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.8104435957502574
+    - '#ffffff'
+    - '#000000'
+    - '#7f7f7f'
+    - '#4f4f4f'
+    - '#afafaf'
+  brandStrength: 0
   lightness: 0.44363717339001596
   saturation: 0.7506588224787265
   rhythmicContrast: 0.8631205831188709
