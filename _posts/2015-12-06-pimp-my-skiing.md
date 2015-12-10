@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-10T16:19:20.858Z'
-dateModified: '2015-12-10T16:19:15.511Z'
+datePublished: '2015-12-10T21:05:17.137Z'
+dateModified: '2015-12-10T16:48:23.204Z'
 title: Pimp My Skiing
 author: []
 sourcePath: _posts/2015-12-06-pimp-my-skiing.md
