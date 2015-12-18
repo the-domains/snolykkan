@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SNØLYKKAN]]></title>
+        <description><![CDATA[SNØLYKKAN]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Dec 2015 15:43:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BAC - Body Analysis of the Current]]></title>
+            <description><![CDATA[<article><h1>BAC - Body Analysis of the Current</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dda7bcbabed83f1e075b799648c4c1d8b8e6815.jpg"></article>]]></description>
+            <link>undefinedbac-body-analysis-of-the-current/index.html</link>
+            <guid isPermaLink="false">cba27fa5-f134-49ad-862a-1fe69b587849</guid>
+            <pubDate>Fri, 18 Dec 2015 15:43:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
