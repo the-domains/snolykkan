@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Maximize your experience, release your emotions and unplug from chronic pain and low functionality'
-datePublished: '2016-01-29T12:54:00.581Z'
-dateModified: '2016-01-29T12:53:46.074Z'
+datePublished: '2016-02-29T19:22:46.896Z'
+dateModified: '2016-02-29T19:22:29.148Z'
 title: PIMP MY SKIING
 author: []
+sourcePath: _posts/2016-01-29-pimp-my-skiing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-29-pimp-my-skiing.md
-published: true
 url: pimp-my-skiing/index.html
 _type: Article
 
