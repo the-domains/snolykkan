@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I have used the method on severe cases of chronic pain, polio survivors, and other “incurable” conditions that doctors and other therapists have failed to treat successfully.'
-datePublished: '2016-04-05T16:42:45.591Z'
-dateModified: '2016-04-05T14:24:16.128Z'
+datePublished: '2016-04-05T16:52:18.473Z'
+dateModified: '2016-04-05T16:42:53.601Z'
 title: PIMP MY SKIING
 author: []
 sourcePath: _posts/2016-01-29-pimp-my-skiing.md
