@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Maximize your experience, release your emotions and unplug from chronic pain and low functionality'
-datePublished: '2016-02-29T19:22:46.896Z'
-dateModified: '2016-02-29T19:22:29.148Z'
+description: 'I have used the method on severe cases of chronic pain, polio survivors, and other “incurable” conditions that doctors and other therapists have failed to treat successfully.'
+datePublished: '2016-04-05T14:16:32.440Z'
+dateModified: '2016-04-05T14:16:31.739Z'
 title: PIMP MY SKIING
 author: []
 sourcePath: _posts/2016-01-29-pimp-my-skiing.md
