@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "You can quickly learn the tools you need to fix many of the chronic pains \n\nplaguing our daily lives. Learning to connect the Posterior Chain will teach you to move \n\nnaturally, evenly absorbing the weight of your body.\_"
-datePublished: '2016-04-05T14:16:07.448Z'
-dateModified: '2016-04-05T14:15:33.750Z'
+datePublished: '2016-04-05T14:20:51.350Z'
+dateModified: '2016-04-05T14:20:07.463Z'
 author: []
 title: "What is Foundation Training?\_"
+sourcePath: _posts/2016-04-05-what-is-foundation-training.md
+published: true
 authors: []
 publisher:
   name: foundationtraining.com
   domain: www.foundationtraining.com
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-what-is-foundation-training.md
-published: true
 url: what-is-foundation-training/index.html
 _context: 'http://schema.org'
 _type: Article
@@ -45,6 +45,6 @@ feel improved control of your body.
 
 -- Eric Goodman, Founder, Foundation Training LLC 
 
-So looking forward to this!Next stop. Boulder.  
+So looking forward to this!Next stop. Boulder.
 
 - Pontus
