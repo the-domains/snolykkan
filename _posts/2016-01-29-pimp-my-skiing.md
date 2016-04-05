@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I have used the method on severe cases of chronic pain, polio survivors, and other “incurable” conditions that doctors and other therapists have failed to treat successfully.'
-datePublished: '2016-04-05T16:52:18.473Z'
-dateModified: '2016-04-05T16:42:53.601Z'
+datePublished: '2016-04-05T18:22:18.683Z'
+dateModified: '2016-04-05T18:21:35.397Z'
 title: PIMP MY SKIING
 author: []
 sourcePath: _posts/2016-01-29-pimp-my-skiing.md
@@ -25,7 +25,7 @@ _type: Article
 # PIMP MY SKIING
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a50e90b01197bf1c2e2a4e28362b4f9a6847f0c.jpg)
 
-**Maximize your experience, release your emotions and unplug from chronic pain and low functionality.**
+## Maximize your experience, release your emotions and unplug from chronic pain and low functionality.
 
 **Wondered how skiing felt like when you where a kid?** Have you thought about when skiing took a different turn and wasn't as fun or gave you the same kind of sensation as it used to do? Have you ever wondered why?
 
