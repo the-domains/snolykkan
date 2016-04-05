@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'I have used the method on severe cases of chronic pain, polio survivors, and other “incurable” conditions that doctors and other therapists have failed to treat successfully.'
-datePublished: '2016-04-05T18:22:18.683Z'
-dateModified: '2016-04-05T18:21:35.397Z'
+description: Enhance your skiing from another perspective than the obvious
+datePublished: '2016-04-05T18:23:21.687Z'
+dateModified: '2016-04-05T18:22:27.126Z'
 title: PIMP MY SKIING
 author: []
 sourcePath: _posts/2016-01-29-pimp-my-skiing.md
@@ -37,32 +37,8 @@ Dealing with injuries and periods with lack of motivation affects our possibilit
 
 The initial batch of physical test to benchmark your current physical status, videoanalyse and skiing-standards. To get pimped you will receive 4 treatments, making you position to gravity better. Finally we test you again so you can see, feel and be sure that change and improvement is awesome. The concept directs all people hitting a wall in development, in pain or want to somewhat restore function of "lost" body parts and , of course want to improve their skiing.
 
-LONG STORY SHORT. _- What does PIMP actually mean in this context? _
+[CLICK HERE TO REGISTER][0]
 
-Jansson's PMB protocol has three pillars---structure, nutrition, and emotion--- and combines advanced manual therapy, cold laser, nutritional hacking, stress management and neuroplasticity-based training, such as Foundation Training and Z-Health. 
+Welcome - Freedom and skiing starts with change....It just started to snow...
 
-"The study )explained in pressrelease [here][0]) is the result of 15 years of exploration, trying to find out what works and what doesn't work," said Jansson. The difference between Jansson's method and traditional chiropractic and physical therapies is the neuroplasticity-based approach that emphasizes movement re-education, upgraded nutrition, and positive emotional input. Simply stated, along with advanced manual adjustments, clients learn to eat better, think positive and move smarter to combat degeneration caused by their lifestyles but also their unique genetic heritage. "Also, my clients are highly motivated to be pain free and live a fuller life," said Jansson. "It works, even if you don't believe in the science".
-
-## "Rather than treating the symptom, Pimp my skiing, reeducates your body, your brain and make you ski better"
-
-The [results][1] show what modern science tells us, the brain is adaptable and is the control center of pain. Instead of merely treating pain symptoms, I aim to restore function through manual adjustments and nutrition and to re-educate people so they move as they were designed to move. I am convinced that my method makes people pain free faster than traditional physical therapies and chiropractic treatments. 
-
-I have used the method on severe cases of chronic pain, polio survivors, and other "incurable" conditions that doctors and other therapists have failed to treat successfully.
-
-Swedish-born Jansson is an expert with 15 years of experience with percussor machine-assisted adjustments. This almost too good to be true machine provides a pain-free effective treatment. A session takes about one hour. Most people need 2-4 sessions to experience less pain achieve and better function. In addition to the manual adjustments and cold-laser treatment, clients learn exercise techniques that integrate their structure and nervous system. The stress-reduction component teaches meditation for people who hate to meditate (or have no time to do it).
-
-**What next?**
-
-In the next phase of demonstrating the effectiveness of his method, Jansson plans to analyze blood samples, test insulin sensitivity and other indicators of new participants before and after treatment. "My goal is not to keep my clients dependent on me by treating their symptoms from week to week, but to make them independent from me. You can't treat the condition, you have to change it," argues Jansson.
-
-**Would like to know more?**
-
-Pimp Yourself or come to one of our workshops 13th Februar OSLO, Norway
-
-[CLICK HERE TO REGISTER][2]
-
-Welcome - Freedom starts with change....
-
-[0]: http://www.verkstedet.org/pressrelease-17112015/
-[1]: http://www.verkstedet.org/bac-after-4-treatments/
-[2]: https://podio.com/webforms/14208298/953185
+[0]: https://podio.com/webforms/14208298/953185
