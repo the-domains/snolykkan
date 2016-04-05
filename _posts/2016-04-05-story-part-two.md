@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "Skiing is and has been more than just pleasure. Especially for me. Skiing is not only the joy of sliding down a hill. Skiing has its place in history for exploration, communication and survival. It’s in close relation to myself and the culture I grew up in.\_"
-datePublished: '2016-04-05T18:17:21.684Z'
-dateModified: '2016-04-05T18:17:04.677Z'
+datePublished: '2016-04-05T18:18:32.770Z'
+dateModified: '2016-04-05T18:17:24.127Z'
 title: Story - Part two
 author: []
 authors: []
@@ -18,8 +19,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-04-05-story-part-two.md
 published: true
-url: story-part-two/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Story - Part two
