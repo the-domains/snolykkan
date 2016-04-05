@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I have used the method on severe cases of chronic pain, polio survivors, and other “incurable” conditions that doctors and other therapists have failed to treat successfully.'
-datePublished: '2016-04-05T14:16:32.440Z'
-dateModified: '2016-04-05T14:16:31.739Z'
+datePublished: '2016-04-05T14:24:09.814Z'
+dateModified: '2016-04-05T14:23:53.589Z'
 title: PIMP MY SKIING
 author: []
 sourcePath: _posts/2016-01-29-pimp-my-skiing.md
@@ -31,9 +31,11 @@ _type: Article
 
 Dealing with injuries and periods with lack of motivation affects our possibility to maximize the moment of skiing down a mountain. Equipment, friends, weather and environment plays definitely a big role in this game but pain, endurance, strength, flexibility and the all combined balance as well as progress in skiing is probably the most significant factors that set limits to having the most awesome day on the mountain and maintain passion and keep on skiing with the biggest smile!
 
-**Pimp my skiing(c)** is an extension of Michael Janssons, Pimp My body(c) treatment protocol and aim to increase performance in every aspect of your skiing. The customized batch of physical tests highlights body functions used in skiing. We also test your skiing. Put a bench mark on how you make your turning using the best ski-teachers you can find. 
+**Pimp my skiing(c)** is an extension of Michael Janssons, Pimp My body(c) treatment protocol and aim to increase performance in every aspect of your skiing. The customized batch of physical tests highlights body functions used in skiing. We also test your skiing. Put a bench mark on how you make your turning using the most experienced ski-teachers you can find. 
 
-The initial batch of physical test to benchmark your current physical status, videoanalyse and skiing-standards. To get pimped you will receive 4 treatments, making gravity help you and not make you fall. Finally we test you again so you can see, feel and be sure that change and improvement is awesome. The concept directs all people hitting a wall in development, in pain or want to somewhat restore function of "lost" body parts and , of course want to improve their skiing.
+## "Rather than treating the symptom, Pimp my skiing, reeducates your body, your brain and make you ski better"
+
+The initial batch of physical test to benchmark your current physical status, videoanalyse and skiing-standards. To get pimped you will receive 4 treatments, making you position to gravity better. Finally we test you again so you can see, feel and be sure that change and improvement is awesome. The concept directs all people hitting a wall in development, in pain or want to somewhat restore function of "lost" body parts and , of course want to improve their skiing.
 
 LONG STORY SHORT. _- What does PIMP actually mean in this context? _
 
