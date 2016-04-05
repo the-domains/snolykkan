@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Enhance your skiing from another perspective than the obvious
-datePublished: '2016-04-05T18:23:21.687Z'
-dateModified: '2016-04-05T18:22:27.126Z'
+datePublished: '2016-04-05T18:33:03.917Z'
+dateModified: '2016-04-05T18:23:27.299Z'
 title: PIMP MY SKIING
 author: []
 sourcePath: _posts/2016-01-29-pimp-my-skiing.md
