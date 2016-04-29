@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "You can quickly learn the tools you need to fix many of the chronic pains \n\nplaguing our daily lives. Learning to connect the Posterior Chain will teach you to move \n\nnaturally, evenly absorbing the weight of your body.\_"
-datePublished: '2016-04-05T20:19:30.446Z'
-dateModified: '2016-04-05T20:18:32.079Z'
+datePublished: '2016-04-29T21:14:29.531Z'
+dateModified: '2016-04-05T20:19:49.521Z'
 author: []
 title: "What is Foundation Training?\_"
 sourcePath: _posts/2016-04-05-what-is-foundation-training.md
