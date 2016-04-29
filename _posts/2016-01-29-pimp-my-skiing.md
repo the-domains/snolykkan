@@ -3,13 +3,14 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: Enhance your skiing from another perspective than the obvious
-datePublished: '2016-04-06T05:33:34.351Z'
-dateModified: '2016-04-06T05:33:00.751Z'
+description: ''
+datePublished: '2016-04-29T21:14:22.844Z'
+dateModified: '2016-04-29T21:08:16.873Z'
 title: PIMP MY SKIING
-author: []
+author:
+  - name: 'PIMP MY SKIING!'
+    url: 'https://podio.com/webforms/14208298/953185'
 sourcePath: _posts/2016-01-29-pimp-my-skiing.md
 published: true
 authors: []
@@ -18,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: pimp-my-skiing/index.html
 _type: Article
 
@@ -41,4 +43,4 @@ The initial batch of physical test to benchmark your current physical status, vi
 
 Welcome - Freedom and skiing starts with change....It just started to snow...
 
-[0]: https://podio.com/webforms/14208298/953185
+[0]: null
