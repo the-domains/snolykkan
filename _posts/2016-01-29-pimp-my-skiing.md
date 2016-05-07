@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T18:37:56.494Z'
-dateModified: '2016-05-07T18:37:38.397Z'
+datePublished: '2016-05-07T18:38:23.372Z'
+dateModified: '2016-05-07T18:38:05.202Z'
 title: Pimp My Skiing
 author:
   - name: 'PIMP MY SKIING!'
