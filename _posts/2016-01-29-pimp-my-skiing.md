@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T10:11:39.221Z'
+datePublished: '2016-08-23T17:01:40.165Z'
 sourcePath: _posts/2016-01-29-pimp-my-skiing.md
 inFeed: true
 authors: []
@@ -8,13 +8,13 @@ keywords: []
 author:
   - name: PIMP MY SKIING!
     url: 'https://podio.com/webforms/14208298/953185'
-dateModified: '2016-08-22T10:11:38.655Z'
+via: {}
+dateModified: '2016-08-23T17:01:39.577Z'
 title: Pimp My Skiing
 publisher: {}
 description: ''
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: pimp-my-skiing/index.html
 _type: Article
@@ -35,6 +35,6 @@ Welcome - Freedom and skiing starts with change....It just started to snow...
 
 _Share you curiosity!_
 
-[Click here!][0]
+[CLICK HERE][0]
 
-[0]: https://podio.com/webforms/15743553/1055726
+[0]: https://podio.com/webforms/16550426/1112733
