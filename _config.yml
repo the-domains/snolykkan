@@ -1,7 +1,37 @@
-name: SNØLYKKAN
-favicon: null
-layout_spectrum: 0.9574468
 typography_spectrum: 0.48614
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#7f7f7f'
+    - '#4f4f4f'
+    - '#afafaf'
+  brandStrength: 0
+  lightness: 0.443637173390016
+  saturation: 0.7506588224787265
+  rhythmicContrast: 0.8631205831188709
+opengraph:
+  image: null
+  type: ''
+  appId: null
+layout_spectrum: 0.9574468
+analytics:
+  google: UA-75901857-1
+  facebook: null
+  twitter: null
+author:
+  name: Pontus Lüttkens
+  email: snow@snolykkan.com
+  url: 'http://2ft.io'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b8533b4-2758-41ec-94d0-35542124f361.jpg
+name: SNØLYKKAN
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e409ab5-5c7e-4af3-835b-f7bcf079f196.jpg
 collections:
   - index:
       path: /
@@ -15,27 +45,4 @@ collections:
       format: rss
       number: 10
 title: Enhances experience on snow from another perspective than the obvious
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-75901857-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#7f7f7f'
-    - '#4f4f4f'
-    - '#afafaf'
-  brandStrength: 0
-  lightness: 0.443637173390016
-  saturation: 0.7506588224787265
-  rhythmicContrast: 0.8631205831188709
 purpose: []
